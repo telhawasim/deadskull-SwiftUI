@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  deadSkull
+//  DeadSkull
 //
 //  Created by Telha Wasim on 13/07/2024.
 //

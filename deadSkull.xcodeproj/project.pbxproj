@@ -7,22 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0991A39A2C4266AC00A9C8B8 /* deadSkullApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0991A3992C4266AC00A9C8B8 /* deadSkullApp.swift */; };
-		0991A39C2C4266AC00A9C8B8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0991A39B2C4266AC00A9C8B8 /* ContentView.swift */; };
-		0991A39E2C4266AD00A9C8B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0991A39D2C4266AD00A9C8B8 /* Assets.xcassets */; };
-		0991A3A12C4266AD00A9C8B8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0991A3A02C4266AD00A9C8B8 /* Preview Assets.xcassets */; };
+		0963D9F32C42672F00EF02C4 /* DeadSkullApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0963D9F22C42672F00EF02C4 /* DeadSkullApp.swift */; };
+		0963D9F52C42672F00EF02C4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0963D9F42C42672F00EF02C4 /* ContentView.swift */; };
+		0963D9F72C42673000EF02C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0963D9F62C42673000EF02C4 /* Assets.xcassets */; };
+		0963D9FA2C42673000EF02C4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0963D9F92C42673000EF02C4 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0991A3962C4266AC00A9C8B8 /* deadSkull.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = deadSkull.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0991A3992C4266AC00A9C8B8 /* deadSkullApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = deadSkullApp.swift; sourceTree = "<group>"; };
-		0991A39B2C4266AC00A9C8B8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		0991A39D2C4266AD00A9C8B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		0991A3A02C4266AD00A9C8B8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0963D9EF2C42672F00EF02C4 /* DeadSkull.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DeadSkull.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0963D9F22C42672F00EF02C4 /* DeadSkullApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeadSkullApp.swift; sourceTree = "<group>"; };
+		0963D9F42C42672F00EF02C4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		0963D9F62C42673000EF02C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0963D9F92C42673000EF02C4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		0991A3932C4266AC00A9C8B8 /* Frameworks */ = {
+		0963D9EC2C42672F00EF02C4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -32,37 +32,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0991A38D2C4266AC00A9C8B8 = {
+		0963D9E62C42672F00EF02C4 = {
 			isa = PBXGroup;
 			children = (
-				0991A3982C4266AC00A9C8B8 /* deadSkull */,
-				0991A3972C4266AC00A9C8B8 /* Products */,
+				0963D9F12C42672F00EF02C4 /* DeadSkull */,
+				0963D9F02C42672F00EF02C4 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		0991A3972C4266AC00A9C8B8 /* Products */ = {
+		0963D9F02C42672F00EF02C4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0991A3962C4266AC00A9C8B8 /* deadSkull.app */,
+				0963D9EF2C42672F00EF02C4 /* DeadSkull.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0991A3982C4266AC00A9C8B8 /* deadSkull */ = {
+		0963D9F12C42672F00EF02C4 /* DeadSkull */ = {
 			isa = PBXGroup;
 			children = (
-				0991A3992C4266AC00A9C8B8 /* deadSkullApp.swift */,
-				0991A39B2C4266AC00A9C8B8 /* ContentView.swift */,
-				0991A39D2C4266AD00A9C8B8 /* Assets.xcassets */,
-				0991A39F2C4266AD00A9C8B8 /* Preview Content */,
+				0963D9F22C42672F00EF02C4 /* DeadSkullApp.swift */,
+				0963D9F42C42672F00EF02C4 /* ContentView.swift */,
+				0963D9F62C42673000EF02C4 /* Assets.xcassets */,
+				0963D9F82C42673000EF02C4 /* Preview Content */,
 			);
-			path = deadSkull;
+			path = DeadSkull;
 			sourceTree = "<group>";
 		};
-		0991A39F2C4266AD00A9C8B8 /* Preview Content */ = {
+		0963D9F82C42673000EF02C4 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				0991A3A02C4266AD00A9C8B8 /* Preview Assets.xcassets */,
+				0963D9F92C42673000EF02C4 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -70,39 +70,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0991A3952C4266AC00A9C8B8 /* deadSkull */ = {
+		0963D9EE2C42672F00EF02C4 /* DeadSkull */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0991A3A42C4266AD00A9C8B8 /* Build configuration list for PBXNativeTarget "deadSkull" */;
+			buildConfigurationList = 0963D9FD2C42673000EF02C4 /* Build configuration list for PBXNativeTarget "DeadSkull" */;
 			buildPhases = (
-				0991A3922C4266AC00A9C8B8 /* Sources */,
-				0991A3932C4266AC00A9C8B8 /* Frameworks */,
-				0991A3942C4266AC00A9C8B8 /* Resources */,
+				0963D9EB2C42672F00EF02C4 /* Sources */,
+				0963D9EC2C42672F00EF02C4 /* Frameworks */,
+				0963D9ED2C42672F00EF02C4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = deadSkull;
-			productName = deadSkull;
-			productReference = 0991A3962C4266AC00A9C8B8 /* deadSkull.app */;
+			name = DeadSkull;
+			productName = DeadSkull;
+			productReference = 0963D9EF2C42672F00EF02C4 /* DeadSkull.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		0991A38E2C4266AC00A9C8B8 /* Project object */ = {
+		0963D9E72C42672F00EF02C4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1540;
 				LastUpgradeCheck = 1540;
 				TargetAttributes = {
-					0991A3952C4266AC00A9C8B8 = {
+					0963D9EE2C42672F00EF02C4 = {
 						CreatedOnToolsVersion = 15.4;
 					};
 				};
 			};
-			buildConfigurationList = 0991A3912C4266AC00A9C8B8 /* Build configuration list for PBXProject "deadSkull" */;
+			buildConfigurationList = 0963D9EA2C42672F00EF02C4 /* Build configuration list for PBXProject "DeadSkull" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,42 +110,42 @@
 				en,
 				Base,
 			);
-			mainGroup = 0991A38D2C4266AC00A9C8B8;
-			productRefGroup = 0991A3972C4266AC00A9C8B8 /* Products */;
+			mainGroup = 0963D9E62C42672F00EF02C4;
+			productRefGroup = 0963D9F02C42672F00EF02C4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0991A3952C4266AC00A9C8B8 /* deadSkull */,
+				0963D9EE2C42672F00EF02C4 /* DeadSkull */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		0991A3942C4266AC00A9C8B8 /* Resources */ = {
+		0963D9ED2C42672F00EF02C4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0991A3A12C4266AD00A9C8B8 /* Preview Assets.xcassets in Resources */,
-				0991A39E2C4266AD00A9C8B8 /* Assets.xcassets in Resources */,
+				0963D9FA2C42673000EF02C4 /* Preview Assets.xcassets in Resources */,
+				0963D9F72C42673000EF02C4 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		0991A3922C4266AC00A9C8B8 /* Sources */ = {
+		0963D9EB2C42672F00EF02C4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0991A39C2C4266AC00A9C8B8 /* ContentView.swift in Sources */,
-				0991A39A2C4266AC00A9C8B8 /* deadSkullApp.swift in Sources */,
+				0963D9F52C42672F00EF02C4 /* ContentView.swift in Sources */,
+				0963D9F32C42672F00EF02C4 /* DeadSkullApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		0991A3A22C4266AD00A9C8B8 /* Debug */ = {
+		0963D9FB2C42673000EF02C4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -208,7 +208,7 @@
 			};
 			name = Debug;
 		};
-		0991A3A32C4266AD00A9C8B8 /* Release */ = {
+		0963D9FC2C42673000EF02C4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -264,14 +264,14 @@
 			};
 			name = Release;
 		};
-		0991A3A52C4266AD00A9C8B8 /* Debug */ = {
+		0963D9FE2C42673000EF02C4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"deadSkull/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"DeadSkull/Preview Content\"";
 				DEVELOPMENT_TEAM = WQZ3XLJ7TJ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -285,7 +285,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = learning.deadSkull;
+				PRODUCT_BUNDLE_IDENTIFIER = learning.DeadSkull;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -293,14 +293,14 @@
 			};
 			name = Debug;
 		};
-		0991A3A62C4266AD00A9C8B8 /* Release */ = {
+		0963D9FF2C42673000EF02C4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"deadSkull/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"DeadSkull/Preview Content\"";
 				DEVELOPMENT_TEAM = WQZ3XLJ7TJ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -314,7 +314,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = learning.deadSkull;
+				PRODUCT_BUNDLE_IDENTIFIER = learning.DeadSkull;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -325,25 +325,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0991A3912C4266AC00A9C8B8 /* Build configuration list for PBXProject "deadSkull" */ = {
+		0963D9EA2C42672F00EF02C4 /* Build configuration list for PBXProject "DeadSkull" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0991A3A22C4266AD00A9C8B8 /* Debug */,
-				0991A3A32C4266AD00A9C8B8 /* Release */,
+				0963D9FB2C42673000EF02C4 /* Debug */,
+				0963D9FC2C42673000EF02C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0991A3A42C4266AD00A9C8B8 /* Build configuration list for PBXNativeTarget "deadSkull" */ = {
+		0963D9FD2C42673000EF02C4 /* Build configuration list for PBXNativeTarget "DeadSkull" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0991A3A52C4266AD00A9C8B8 /* Debug */,
-				0991A3A62C4266AD00A9C8B8 /* Release */,
+				0963D9FE2C42673000EF02C4 /* Debug */,
+				0963D9FF2C42673000EF02C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 0991A38E2C4266AC00A9C8B8 /* Project object */;
+	rootObject = 0963D9E72C42672F00EF02C4 /* Project object */;
 }

@@ -1,6 +1,6 @@
 //
-//  deadSkullApp.swift
-//  deadSkull
+//  DeadSkullApp.swift
+//  DeadSkull
 //
 //  Created by Telha Wasim on 13/07/2024.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct deadSkullApp: App {
+struct DeadSkullApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
